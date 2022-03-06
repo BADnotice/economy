@@ -1,0 +1,8 @@
+name: economy
+version: '@version@'
+main: io.github.badnotice.economy.EconomyPlugin
+authors: [ BADnotice ]
+load: STARTUP
+depend:
+  - Vault
+  - PlaceholderAPI
